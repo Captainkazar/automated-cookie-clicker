@@ -1,4 +1,4 @@
-# automation-cookie-clicker
+# automated-cookie-clicker
 
 Used selenium to automate the cookie clicker game:
 
